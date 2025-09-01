@@ -1,0 +1,12 @@
+{
+  "name": "a2a-agent",
+  "version": "1.0.0",
+  "description": "A2A Protocol Agent for watsonx Orchestrate",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
